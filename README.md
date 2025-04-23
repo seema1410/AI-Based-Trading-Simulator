@@ -87,7 +87,7 @@ Open your browser and go to:
 
 Backend: `http://localhost:8000`
 
-##  Usage
+## 🖥️ Usage
 
 Once the application is running, you can log in and start simulating trades. Create a new user or log in to an existing account. The platform will guide you through setting up a virtual wallet, portfolio, and accessing real-time crypto market data.
 
@@ -95,8 +95,9 @@ Once the application is running, you can log in and start simulating trades. Cre
 - **AI-Powered Trading Mentor**: Receive personalized trading recommendations.
 - **Portfolio & Transaction Management**: Track your simulated portfolio and review your transaction history.
 
-##  Contact Information
+## 📞 Contact Information
 
 For any questions or support related to the AI-based Trading Simulator project, feel free to reach out:
 
 - **Seema** (Developer)
+- 📧 Email: seemadwivedi1119@gmail.com
