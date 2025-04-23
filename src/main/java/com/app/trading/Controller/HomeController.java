@@ -11,6 +11,7 @@ public class HomeController {
     }
     @GetMapping("/api")
     public String secure() {
-        return "secure to my trading application";
+    	return "secure to my trading application";
     }
+    
 }
