@@ -97,7 +97,4 @@ Once the application is running, you can log in and start simulating trades. Cre
 
 ## 📞 Contact Information
 
-For any questions or support related to the AI-based Trading Simulator project, feel free to reach out:
-
-- **Seema** (Developer)
-- 📧 Email: seemadwivedi1119@gmail.com
+For any questions or support related to the AI-based Trading Simulator project, feel free to reach out.
